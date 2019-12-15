@@ -1,4 +1,4 @@
-# `i3bgwin`
+# `i3bgwin` [![](https://github.com/quantum5/i3bgwin/workflows/build/badge.svg)](https://github.com/quantum5/i3bgwin/actions)
 
 i3 does not implement specific support for windows with the `_NET_WM_WINDOW_TYPE_DESKTOP` hint,
 and as such do not render those windows in the background behind all other windows.
