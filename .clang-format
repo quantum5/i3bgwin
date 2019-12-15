@@ -1,0 +1,7 @@
+BasedOnStyle: LLVM
+---
+Language: Cpp
+DerivePointerAlignment: false
+PointerAlignment: Right
+AlwaysBreakTemplateDeclarations: true
+ColumnLimit: 100
