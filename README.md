@@ -26,7 +26,7 @@ do `i3bgwin xterm -into {windowid}`.
 
 ![Demo of i3bgwin with the visualizer Cava](./screenshots/cava-demo.png)
 
-Here, we run [Cava][https://github.com/karlstav/cava] inside `rxvt` on the i3 background window.
+Here, we run [Cava](https://github.com/karlstav/cava) inside `rxvt` on the i3 background window.
 
 The command used is:
 
